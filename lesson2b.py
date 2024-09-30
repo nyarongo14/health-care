@@ -1,0 +1,6 @@
+items=('kisumu','eldoret','nakuru')
+print(items)
+items.append('mombasa')
+print(items)
+items.remove('eldoret')
+print(items)
